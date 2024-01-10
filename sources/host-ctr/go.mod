@@ -58,7 +58,7 @@ require (
 	github.com/docker/go-units v0.5.0 // indirect
 	github.com/emicklei/go-restful/v3 v3.11.0 // indirect
 	github.com/fsnotify/fsnotify v1.6.0 // indirect
-	github.com/go-jose/go-jose/v3 v3.0.0 // indirect
+	github.com/go-jose/go-jose/v3 v3.0.1 // indirect
 	github.com/go-logr/logr v1.2.4 // indirect
 	github.com/godbus/dbus/v5 v5.1.0 // indirect
 	github.com/gogo/googleapis v1.4.1 // indirect
